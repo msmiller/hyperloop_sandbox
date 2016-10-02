@@ -33,7 +33,18 @@ module Components
 
       def render
         div do
-          "Home::Snarf"
+          table.ui.celled.table do
+            tbody do
+            tr do
+              td do
+                "Home::Snarf"
+              end
+              td do
+                "HAHA"
+              end
+            end
+          end
+          end
         end
       end
     end
