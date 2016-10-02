@@ -1,0 +1,1 @@
+json.partial! "blivots/blivot", blivot: @blivot

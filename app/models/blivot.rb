@@ -1,0 +1,2 @@
+class Blivot < ApplicationRecord
+end

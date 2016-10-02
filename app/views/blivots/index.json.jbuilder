@@ -1,0 +1,1 @@
+json.array! @blivots, partial: 'blivots/blivot', as: :blivot

@@ -1,0 +1,19 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <strong>Name:</strong>
+  <%= @blivot.name %>
+</p>
+
+<p>
+  <strong>Description:</strong>
+  <%= @blivot.description %>
+</p>
+
+<p>
+  <strong>Priority:</strong>
+  <%= @blivot.priority %>
+</p>
+
+<%= link_to 'Edit', edit_blivot_path(@blivot) %> |
+<%= link_to 'Back', blivots_path %>
