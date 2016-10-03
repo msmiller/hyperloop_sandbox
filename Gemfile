@@ -32,6 +32,7 @@ gem 'jbuilder', '~> 2.5'
 
 gem 'semantic-ui-sass', github: 'doabit/semantic-ui-sass'
 gem "reactrb-rails-generator"
+gem 'synchromesh', git: 'https://github.com/reactrb/synchromesh.git'
 
 group :development, :test do
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console

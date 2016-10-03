@@ -10,6 +10,7 @@ module Components
         #{}"hello #{params.say_hello_to if params.say_hello_to}"
         Clock(name: params.say_hello_to)
         Snarf()
+        BlivotList()
       end
       end
     end

@@ -14,3 +14,5 @@ require 'react_router'
 require 'reactive-record'
 require 'models'
 require_tree './components'
+
+require 'synchromesh'

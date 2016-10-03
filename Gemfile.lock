@@ -5,6 +5,14 @@ GIT
     semantic-ui-sass (2.2.4.0)
       sass (>= 3.2)
 
+GIT
+  remote: https://github.com/reactrb/synchromesh.git
+  revision: 4f693cc3aae2b9177075d48c3dddcb605d5eb77c
+  specs:
+    synchromesh (0.4.0)
+      activerecord (>= 0.3.0)
+      reactive-record (>= 0.7.43)
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -238,6 +246,7 @@ DEPENDENCIES
   spring
   spring-watcher-listen (~> 2.0.0)
   sqlite3
+  synchromesh!
   therubyracer
   turbolinks (~> 5)
   tzinfo-data
