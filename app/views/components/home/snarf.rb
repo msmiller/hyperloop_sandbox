@@ -37,7 +37,9 @@ module Components
             tbody do
             tr do
               td do
+                  i.ui.icon.users {}
                 "Home::Snarf"
+
               end
               td do
                 "HAHA"
