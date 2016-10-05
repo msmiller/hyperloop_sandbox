@@ -19,7 +19,8 @@ module Components
         # any initialization particularly of state variables goes here.
         # this will execute on server (prerendering) and client.
         #@blivots = Blivot.all.where(:user_id => 1) #User.first.blivots
-        @blivots = User.find(1).blivots
+        state.current_user_id = 1
+        @blivots = Blivot.all #User.find(1).blivots
       end
 
       after_mount do
