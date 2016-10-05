@@ -1,0 +1,377 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"off",
+				"office_hours"
+			],
+			[
+				"the",
+				"the"
+			],
+			[
+				"border-s",
+				"border-style"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"mi",
+				"middle"
+			],
+			[
+				"min",
+				"min-width"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 137.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 518.0
+	},
+	"console":
+	{
+		"height": 125.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/msmiller/Development/sandbox5/hyperloop"
+	],
+	"file_history":
+	[
+		"/Users/msmiller/Work/DialedIn/DEV/cicero/README.md",
+		"/Users/msmiller/Work/DialedIn/DEV/cicero/app/assets/javascripts/application.js",
+		"/Users/msmiller/Work/DialedIn/DEV/cicero/config/application.rb",
+		"/Users/msmiller/Work/DialedIn/DEV/cicero/app/assets/stylesheets/application.css",
+		"/Users/msmiller/Work/DialedIn/DEV/cicero/doc/notes.md",
+		"/Users/msmiller/Work/DialedIn/DEV/cicero/db/di2x_schema.rb",
+		"/Users/msmiller/Work/DialedIn/DEV/cicero/db/migrate/20150118202928_create_synapses.rb",
+		"/Users/msmiller/Work/DialedIn/DEV/cicero/Gemfile",
+		"/Users/msmiller/Work/DialedIn/DEV/cicero/app/models/synapse.rb",
+		"/Users/msmiller/Work/DialedIn/DEV/cicero/app/interactions/readme.md",
+		"/Users/msmiller/Development/kolectiv/Gemfile",
+		"/Users/msmiller/Work/DialedIn/DEV/cicero/Rakefile",
+		"/Users/msmiller/Work/DialedIn/DEV/cicero/app/cells/readme.md",
+		"/Users/msmiller/Work/Find-a-Therapist/m2staging/public/stylesheets/content.css",
+		"/Users/msmiller/Work/Find-a-Therapist/m2staging/app/views/listings/segments/_show.rhtml",
+		"/Users/msmiller/Work/Find-a-Therapist/m2staging/app/views/listings/templates/_tabbed_segments.rhtml",
+		"/Users/msmiller/Work/Find-a-Therapist/m2staging/db/migrate/20110328072739_create_listings.rb",
+		"/Users/msmiller/Work/Find-a-Therapist/m2staging/db/migrate/20110401071318_create_listingcfgs.rb",
+		"/Users/msmiller/Work/Find-a-Therapist/m2staging/app/views/listings/segments/_contact.rhtml",
+		"/Users/msmiller/Work/Find-a-Therapist/m2staging/app/views/listings/templates/_std_left_side_menu.rhtml",
+		"/Users/msmiller/Work/Find-a-Therapist/m2staging/app/controllers/listings_controller.rb",
+		"/Users/msmiller/Work/Find-a-Therapist/m2staging/app/views/listings/_listingmenu.rhtml",
+		"/Users/msmiller/Work/Find-a-Therapist/m2staging/app/views/listings/templates/_development.rhtml",
+		"/Users/msmiller/Work/Find-a-Therapist/m2staging/app/views/layouts/_flash.rhtml",
+		"/Users/msmiller/Work/Find-a-Therapist/m2staging/app/views/layouts/_flash_assets.rhtml",
+		"/Users/msmiller/Work/Find-a-Therapist/m2staging/app/views/layouts/application.rhtml",
+		"/Users/msmiller/Work/Find-a-Therapist/m2staging/app/views/layouts/_head.rhtml",
+		"/Users/msmiller/Work/Find-a-Therapist/m2staging/app/views/listings/segments/view/_office.rhtml",
+		"/Users/msmiller/Work/Find-a-Therapist/m2staging/app/views/listings/_listingsidebar1.rhtml",
+		"/Users/msmiller/Work/Find-a-Therapist/m2staging/config/initializers/morpheus_features.rb",
+		"/Users/msmiller/Work/Find-a-Therapist/m2staging/config/environment.rb",
+		"/Users/msmiller/Work/Find-a-Therapist/m2staging/app/models/book.rb",
+		"/Users/msmiller/Work/Find-a-Therapist/m2staging/app/views/listings/segments/view/_treatprog.rhtml",
+		"/Users/msmiller/Work/Find-a-Therapist/m2staging/app/views/listings/segments/view/_therapist.rhtml",
+		"/Users/msmiller/Work/Find-a-Therapist/m2staging/app/views/listings/segments/edit/_therapist.rhtml",
+		"/Users/msmiller/Work/Find-a-Therapist/m2staging/app/views/listings/segments/edit/_treatprog.rhtml",
+		"/Users/msmiller/Work/Find-a-Therapist/m2staging/config/environments/staging.rb",
+		"/Users/msmiller/Work/Find-a-Therapist/m2staging/config/environments/production.rb",
+		"/Users/msmiller/Work/Find-a-Therapist/m2staging/config.ru",
+		"/Users/msmiller/Work/Find-a-Therapist/m2staging/config/initializers/amazon_ecs.rb",
+		"/Users/msmiller/Work/Find-a-Therapist/m2staging/Gemfile",
+		"/Users/msmiller/Work/Find-a-Therapist/m2staging/Procfile",
+		"/Users/msmiller/Work/Find-a-Therapist/m2staging/config/unicorn.rb",
+		"/Users/msmiller/Work/Find-a-Therapist/m2staging/config/application.rb",
+		"/Users/msmiller/Work/Find-a-Therapist/m2staging/app/models/therapist_segment.rb",
+		"/Users/msmiller/Work/Find-a-Therapist/m2staging/app/models/treatprog_segment.rb",
+		"/Users/msmiller/Work/Find-a-Therapist/m2staging/app/views/listings/segments/view/_pages.rhtml",
+		"/Users/msmiller/Work/Find-a-Therapist/m2staging/app/views/listings/segments/edit/_profile.rhtml",
+		"/Users/msmiller/Work/Find-a-Therapist/m2staging/app/views/listings/segments/_services.rhtml",
+		"/Users/msmiller/Work/Find-a-Therapist/m2staging/app/models/phychother_segment.rb",
+		"/Users/msmiller/Work/Find-a-Therapist/m2staging/logs.txt",
+		"/Users/msmiller/Work/Find-a-Therapist/m2staging/app/views/listings/segments/_index.rhtml",
+		"/Users/msmiller/Work/Find-a-Therapist/m2staging/Gemfile.lock",
+		"/Users/msmiller/Library/Application Support/Sublime Text 2/Packages/Alignment/Default (OSX).sublime-keymap",
+		"/Users/msmiller/Work/DialedIn/DEV/di23/public/stylesheets/di20layout.css",
+		"/Users/msmiller/Work/DialedIn/DEV/di23/app/models/medium.rb",
+		"/Users/msmiller/Work/DialedIn/DEV/di23/app/controllers/contacts_controller.rb",
+		"/Users/msmiller/Work/DialedIn/DEV/di23/app/views/library/_mediatype_sel_all.rhtml",
+		"/Users/msmiller/Work/DialedIn/DEV/di23/app/views/library/_mediatype_sel.rhtml",
+		"/Users/msmiller/Work/DialedIn/DEV/di23/app/views/manager/medialibs.old.rhtml",
+		"/Users/msmiller/Work/DialedIn/DEV/di23/Gemfile",
+		"/Users/msmiller/Work/DialedIn/DEV/di23/Rakefile",
+		"/Users/msmiller/Work/DialedIn/DEV/di23/Gemfile.lock",
+		"/Users/msmiller/Work/DialedIn/DEV/di23/app/models/media_list.rb",
+		"/Users/msmiller/Work/DialedIn/DEV/di23/app/views/control_panel/projects.rhtml",
+		"/Users/msmiller/Work/DialedIn/DEV/di23/app/models/thumbnail.rb",
+		"/Users/msmiller/Work/DialedIn/DEV/di23/app/models/page.rb",
+		"/Users/msmiller/Work/DialedIn/DEV/di23/app/views/jsonapi/testforms.rhtml",
+		"/Users/msmiller/Work/DialedIn/DEV/di23/app/views/contacts/_addrbk_datatables.rhtml",
+		"/Users/msmiller/Work/DialedIn/DEV/di23/app/views/control_panel/_active_projects_dt.rhtml",
+		"/Users/msmiller/Work/DialedIn/DEV/di23/app/views/media/_upload_slider_multi.rhtml",
+		"/Users/msmiller/Work/DialedIn/DEV/di23/app/views/contacts/_manage_tags.rhtml",
+		"/Users/msmiller/Work/DialedIn/DEV/di23/app/controllers/jsonapi_controller.rb",
+		"/Users/msmiller/Work/DialedIn/DEV/di23/app/models/device_auth.rb",
+		"/Users/msmiller/Work/DialedIn/DEV/di23/app/views/event.rhtml",
+		"/Users/msmiller/Work/DialedIn/DEV/di23/app/views/xmlapi/testforms.rhtml",
+		"/Users/msmiller/Work/DialedIn/DEV/di23/app/controllers/xmlapi_controller.rb",
+		"/Users/msmiller/Work/DialedIn/DEV/di23/app/views/media/_table_jqgrid.rhtml",
+		"/Users/msmiller/Work/DialedIn/DEV/di23/public/stylesheets/datatables.css",
+		"/Users/msmiller/Work/DialedIn/DEV/di23/config/routes.rb",
+		"/Users/msmiller/Work/DialedIn/DEV/di23/app/helpers/jobmonadmin_helper.rb",
+		"/Users/msmiller/Work/DialedIn/DEV/di23/app/views/jobmons/index.rhtml",
+		"/Users/msmiller/Work/DialedIn/DEV/di23/app/controllers/jobmons_controller.rb",
+		"/Users/msmiller/Work/DialedIn/DEV/di23/app/models/jobmon_item.rb",
+		"/Users/msmiller/Work/DialedIn/DEV/di23/app/models/jobmon.rb",
+		"/Users/msmiller/Work/DialedIn/DEV/di23/sublimetext/lib/resque/resque_mailing_send_atomic.rb",
+		"/Users/msmiller/Work/DialedIn/DEV/di23/sublimetext/lib/resque/resque_mailing_idlist_atomic.rb",
+		"/Users/msmiller/Work/DialedIn/DEV/di23/sublimetext/app/models/jobmon_item.rb",
+		"/Users/msmiller/Work/DialedIn/DEV/di23/sublimetext/app/models/jobmon.rb",
+		"/Users/msmiller/Library/Application Support/Sublime Text 2/Packages/User/Side Bar.sublime-settings",
+		"/Users/msmiller/Library/Application Support/Sublime Text 2/Packages/SideBarEnhancements/Side Bar.sublime-settings",
+		"/Users/msmiller/Work/DialedIn/DEV/di23/di-1.sublime-project",
+		"/Users/msmiller/Library/Application Support/Sublime Text 2/Packages/JsFormat/Default (OSX).sublime-keymap",
+		"/Users/msmiller/Work/DialedIn/DEV/di23/public/javascripts/application20.js",
+		"/Users/msmiller/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/msmiller/Library/Application Support/Sublime Text 2/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/msmiller/Library/Application Support/Sublime Text 2/Packages/Default/Default (OSX).sublime-keymap",
+		"/Users/msmiller/Work/DialedIn/DEV/di23/app/views/manager/di-firedrills-1.sublime-project",
+		"/Users/msmiller/Library/Application Support/Sublime Text 2/Packages/Alignment/Base File.sublime-settings",
+		"/Users/msmiller/Development/didiwin/.rvmrc",
+		"/Users/msmiller/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Users/msmiller/Library/Application Support/Sublime Text 2/Packages/Package Control/Package Control.sublime-settings"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"'page_id'",
+			"pages",
+			"owner_id",
+			"gmap",
+			"services",
+			"#",
+			"div",
+			"id",
+			"@thesegment",
+			"thesegment",
+			"@thesegment",
+			"thesegment",
+			"20px",
+			"json_media",
+			"_dt",
+			"45px",
+			"@medialist",
+			"thereferer",
+			"MediaHelper",
+			"</span><span class='tagbox'>",
+			"rdoc",
+			"25px",
+			"radius",
+			"\"created_at  #{sorder}\"",
+			"sortcol",
+			"_dt",
+			"48px",
+			"left",
+			"rand",
+			"token",
+			"contactcheck",
+			"url",
+			"36",
+			"45px",
+			"52px",
+			"fff",
+			"f7f7f7",
+			"2px",
+			"52px",
+			"height",
+			"json_media",
+			"json_projects_dt",
+			"control_panel",
+			"media_type",
+			"rightnow",
+			"idlist",
+			"+a\"",
+			"folder_exclude_patterns",
+			"true",
+			"theme"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"@the_therapist_segment",
+			"@the_treatprog_segment",
+			"</span> <span class='tagbox'>",
+			"@media_type"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "hyperloop.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"routes",
+				"config/routes.rb"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 228.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"user",
+				"UserInfo"
+			]
+		],
+		"width": 378.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 306.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

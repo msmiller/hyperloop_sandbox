@@ -2,6 +2,8 @@ module Components
   module Home
     class BlivotList < React::Component::Base
 
+      param :user_id, type: Integer
+
       # param :my_param
       # param param_with_default: "default value"
       # param :param_with_default2, default: "default value" # alternative syntax
@@ -16,7 +18,8 @@ module Components
       before_mount do
         # any initialization particularly of state variables goes here.
         # this will execute on server (prerendering) and client.
-        @blivots = Blivot.all
+        #@blivots = Blivot.all.where(:user_id => 1) #User.first.blivots
+        @blivots = User.find(1).blivots
       end
 
       after_mount do

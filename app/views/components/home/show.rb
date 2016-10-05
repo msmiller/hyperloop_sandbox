@@ -8,9 +8,9 @@ module Components
         div do
         puts "Rendering my first component!"
         #{}"hello #{params.say_hello_to if params.say_hello_to}"
-        Clock(name: params.say_hello_to)
+        #Clock(name: params.say_hello_to)
         Snarf()
-        BlivotList()
+        BlivotList({:user_id => 1})
       end
       end
     end
